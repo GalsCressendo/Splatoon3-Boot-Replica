@@ -4,6 +4,7 @@ The main focus of this project is attempting to replicate the boot scene to lear
 
 ## DEMO
 
+https://github.com/GalsCressendo/Splatoon3-Boot-Replica/assets/107536181/26183a91-6b72-42c9-a18b-f24a4932580a
 
 ## HOW TO TEST IT
 Just clone the project to your local workspace or download it with zip files.
